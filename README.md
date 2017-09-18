@@ -8,7 +8,8 @@ Steps
     $ eval $(ssh-agent -s)      <start the ssh agent>
   
     $ ssh-add ~/.ssh/privateKey <add private key >
-    requires the key passphrase
+    
+        requires the key's passphrase
     
     $ ssh -T git@github.com     <Test SSH connection>
   
