@@ -1,7 +1,8 @@
 # responsive
-Testing steps to push local to remote repo after - git init the local repo
-The content of this repo is a frame of a responsive page generated via initilizr.com
-This is a test procedure of the steps to push a local repo to this remote repo.
+Testing steps to push local to remote repo after - git init the local repo.  
+This repo is a frame of a responsive page generated via initilizr.com
+This is a test procedure of the steps to push a local repo to a remote repo.
+
 Steps
 1. Connect to github ssh - gitbash
 
